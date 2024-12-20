@@ -39,3 +39,6 @@ A browser-based version of the classic 2048 puzzle game, developed with clean an
 ## View Project
 
 * Live Demo: [View the Project](https://modeltoit.github.io/2048_game/)
+
+## Preview
+![Preview](./src/images/reference.png)
