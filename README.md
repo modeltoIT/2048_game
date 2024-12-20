@@ -16,23 +16,23 @@ A browser-based version of the classic 2048 puzzle game, developed with clean an
         git clone https://github.com/modeltoIT/2048_game.git
 
 
-	2.	Move into the project directory:
+	2. Move into the project directory:
 
         cd 2048_game
 
 
-	3.	Ensure that Node.js version v20.x.x is installed. Verify this by running:
+	3. Ensure that Node.js version v20.x.x is installed. Verify this by running:
 
         node -v
 
         If the version is incorrect, install or update Node.js from Node.js official website.
 
-	4.	Install the necessary project dependencies by running:
+	4. Install the necessary project dependencies by running:
 
         npm install
 
 
-	5.	Start the development server with the command:
+	5. Start the development server with the command:
 
         npm start
 
@@ -41,4 +41,5 @@ A browser-based version of the classic 2048 puzzle game, developed with clean an
 * Live Demo: [View the Project](https://modeltoit.github.io/2048_game/)
 
 ## Preview
+
 ![Preview](./src/images/reference.png)
